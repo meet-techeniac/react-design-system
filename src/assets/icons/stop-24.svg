@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>icon/fill/stop/stop-24</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon/fill/stop/stop-24" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M12,1.9 C17.578076,1.9 22.1,6.42192403 22.1,12 C22.1,17.578076 17.578076,22.1 12,22.1 C6.42192403,22.1 1.9,17.578076 1.9,12 C1.9,6.42192403 6.42192403,1.9 12,1.9 Z M17.892789,6.73822572 L7.78489141,18.6827408 C9.00470979,19.4537515 10.4502414,19.9 12,19.9 C16.3630495,19.9 19.9,16.3630495 19.9,12 C19.9,9.9790266 19.1411256,8.13529781 17.892789,6.73822572 Z M12,4.1 C7.63695048,4.1 4.1,7.63695048 4.1,12 C4.1,14.0209734 4.85887437,15.8647022 6.10721103,17.2617743 L16.2151086,5.31725922 C14.9952902,4.54624852 13.5497586,4.1 12,4.1 Z" id="icon-stop" fill="#333333" fill-rule="nonzero"></path>
+    </g>
+</svg>

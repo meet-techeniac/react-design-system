@@ -1,0 +1,40 @@
+/**
+  Custom DatePicker CSS by DuckMa. Base is library CSS, modified to match the design system.
+  Base is already imported, so this file only contains changes!
+*/
+
+.react-datepicker__input-container > input {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  width: calc(100% - 16px);
+  color: var(--color);
+  border: 0.5px solid var(--border-color);
+  margin: 0;
+  padding: 8px;
+  border-radius: 2px;
+  outline: none;
+}
+
+.react-datepicker__input-container > input:focus {
+  border: 0.5px solid var(--focus-border-color);
+}
+
+.react-datepicker__input-container > input::-webkit-input-placeholder {
+  /* Edge */
+  color: var(--placeholder-color);
+}
+
+.react-datepicker__input-container > input:placeholder {
+  color: var(--placeholder-color);
+}
+
+.react-datepicker {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+}
+
+.react-datepicker * {
+  outline: none;
+}
